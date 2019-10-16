@@ -1,6 +1,5 @@
-
 {
-  "name": "react-native-android-intent",
+  "name": "react-native-external-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,8 +12,7 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
+    "react-native": "^0.60.4",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }

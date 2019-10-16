@@ -1,6 +1,5 @@
+import { NativeModules } from "react-native";
 
-import { NativeModules } from 'react-native';
+const { LinkExternalApp } = NativeModules;
 
-const { RNAndroidIntent } = NativeModules;
-
-export default RNAndroidIntent;
+export default LinkExternalApp;
